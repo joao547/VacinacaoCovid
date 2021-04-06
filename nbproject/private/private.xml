@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/servlets/VacinaServlet.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/repositorios/RepositorioPaciente.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/classes/Aplicacao.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/classes/Grupo.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/web/grupos.jsp</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/model/classes/Paciente.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/tags/CarregaProfissionalTag.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/servlets/GrupoServlet.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/web/WEB-INF/tlds/vacinacaotags.tld</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/tags/CarregaVacinaTag.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/web/cadastroaplicacoes.jsp</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/servlets/PacienteServlet.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/tags/CarregaPacienteTag.java</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/web/cadastroDeProfissional.jsp</file>
+            <file>file:/C:/Users/joaob/OneDrive/Área%20de%20Trabalho/VacinacaoCovid/src/java/br/recife/edu/ifpe/controller/servlets/ProfissionalEnfermagemServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
